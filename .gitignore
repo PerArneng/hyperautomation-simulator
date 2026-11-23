@@ -5,3 +5,4 @@ dist/
 __pycache__/
 *.log
 test-results/
+\n# Generated icon PNGs (render.sh)\ndocs/icon/*.png\n
